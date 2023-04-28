@@ -17,6 +17,17 @@
    <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width="75" height="60"/> </a> 
 </p>
 
+<h4 align="left">
+  🖱 Top skills in UE:
+</h4>
+<p align="left">
+   <a href="https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/ClassBlueprint/" target="_blank"> <img src="https://raw.githubusercontent.com/gallasglasses/gallasglasses/main/blueprint_55.png" alt="html5" width="55" height="55"/> </a> 
+   <a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/UMG/UserGuide/WidgetBlueprints/"> <img src="https://raw.githubusercontent.com/gallasglasses/gallasglasses/main/widget_55.png" width="55" height="55"/> </a> 
+   <a href="https://docs.unrealengine.com/4.27/en-US/AnimatingObjects/SkeletalMeshAnimation/AnimBlueprints/"> <img src="https://raw.githubusercontent.com/gallasglasses/gallasglasses/main/animationblueprints_55.png" alt="html5" width="55" height="55"/> </a> 
+   <a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/"> <img src="https://raw.githubusercontent.com/gallasglasses/gallasglasses/main/behaviortree_55.png" width="55" height="55"/> </a> 
+   <a href="https://docs.unrealengine.com/5.1/en-US/plugins-in-unreal-engine/"> <img src="https://raw.githubusercontent.com/gallasglasses/gallasglasses/main/plugins_55.png" width="55" height="55"/> </a> 
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallasglasses&theme=radical&langs_count=3)](https://github.com/gallasglasses/github-readme-stats)
 </br>
 <div id="badges">
