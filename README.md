@@ -1,6 +1,5 @@
 ## 👋 Hello everyone, I'm Galina!
 
-![](https://github.com/images/mona-whisper.gif)
 <img align='right' src="https://github.com/images/mona-whisper.gif" width="150">
 ✨ My name is Galina ✨
 - 💻 Currently, studying C++ and UE4 is my primary activity during my all time.
