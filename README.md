@@ -1,12 +1,14 @@
-<img align='middle' src="https://media.tenor.com/9gcRZ1firEMAAAAC/cat-cute.gif" width="150">
-
-<p>
-   <em>
-✨ My name is Galina ✨</br>
-💻 Currently, studying C++ and UE4 is my primary activity during my all time.
-   </em>
+<p align="left">
+   <img align='left' src="https://media.tenor.com/9gcRZ1firEMAAAAC/cat-cute.gif" width="150">
+      <p align="left">
+         👋 Welcome to my GitHub!</br>
+         <em>
+            ✨ My name is Galina ✨</br>
+            🕹 As a recent graduate with a strong interest in game development, I am eager to apply my skills in the gaming industry.</br>
+            💻 Currently, studying C++ and UE4 is my primary activity during my all time.
+         </em>
+      </p>
 </p>
-
 <h3 align="left">
   :hammer_and_wrench: Technologies and Tools I use:
 </h3>
@@ -16,7 +18,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallasglasses&theme=radical&langs_count=3)](https://github.com/gallasglasses/github-readme-stats)
-
+</br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/galinasyrodoeva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
