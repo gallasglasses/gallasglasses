@@ -2,8 +2,19 @@
 
 <img align='right' src="https://github.com/images/mona-whisper.gif" width="150">
 
-<p><em>✨ My name is Galina ✨</br>
-💻 Currently, studying C++ and UE4 is my primary activity during my all time.</em></p>
+<h2 align="left">
+  :hammer_and_wrench: Technologies and Tools I use:
+</h2>
+<p align="left">
+   <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="html5" width="40" height="40"/> </a> 
+</p>
+
+<p>
+   <em>
+✨ My name is Galina ✨</br>
+💻 Currently, studying C++ and UE4 is my primary activity during my all time.
+   </em>
+</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/galinasyrodoeva/">
