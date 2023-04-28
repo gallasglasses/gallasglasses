@@ -1,4 +1,4 @@
-# 👋 Hello everyone, I'm Galina! <img src="https://github.com/images/mona-whisper.gif" width="50"></h2>
+# 👋 Hello everyone, I'm Galina! <img src="https://github.com/images/mona-whisper.gif" width="100"></h2>
 
 ![](https://github.com/images/mona-whisper.gif)
 
