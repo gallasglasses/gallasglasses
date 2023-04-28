@@ -1,4 +1,15 @@
-### Hi there 👋
+# 👋 Hello everyone
+
+![](https://github.com/images/mona-whisper.gif)
+
+✨ My name is Galina ✨
+- 💻 Currently, studying C++ and UE4 is my primary activity during my all time.
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/galinasyrodoeva/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **gallasglasses/gallasglasses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
