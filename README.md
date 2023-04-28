@@ -1,14 +1,4 @@
-## 👋 Hello everyone, I'm Galina!
-
-<img align='right' src="https://github.com/images/mona-whisper.gif" width="150">
-
-<h2 align="left">
-  :hammer_and_wrench: Technologies and Tools I use:
-</h2>
-<p align="left">
-   <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://e7.pngegg.com/pngimages/886/730/png-clipart-unreal-engine-4-game-engine-video-game-others-game-3d-computer-graphics.png" alt="html5" width="40" height="40"/> </a> 
-</p>
+<img align='middle' src="https://media.tenor.com/9gcRZ1firEMAAAAC/cat-cute.gif" width="150">
 
 <p>
    <em>
@@ -16,6 +6,16 @@
 💻 Currently, studying C++ and UE4 is my primary activity during my all time.
    </em>
 </p>
+
+<h3 align="left">
+  :hammer_and_wrench: Technologies and Tools I use:
+</h3>
+<p align="left">
+   <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="html5" width="60" height="60"/> </a> 
+   <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width="75" height="60"/> </a> 
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gallasglasses&theme=radical&langs_count=3)](https://github.com/gallasglasses/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/galinasyrodoeva/">
@@ -25,6 +25,8 @@
 
 <!--
 **gallasglasses/gallasglasses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align='right' src="https://github.com/images/mona-whisper.gif" width="150">
 
 Here are some ideas to get you started:
 
