@@ -14,7 +14,7 @@
 </h3>
 <p align="left">
    <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="html5" width="60" height="60"/> </a> 
-   <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width="75" height="60"/> </a> 
+   <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://www.logo.wine/a/logo/Unreal_Engine/Unreal_Engine-Logo.wine.svg" width="85" height="70"/> </a> 
 </p></br>
 
 <h4 align="left">
