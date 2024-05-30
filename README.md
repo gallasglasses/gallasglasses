@@ -3,7 +3,7 @@
 <p align="left">
    👋 Welcome to my GitHub!</br>
    <em>
-      ✨ My name is Galina ✨</br>
+      ✨ My name is Galla ✨</br>
       🕹 I am interested in game development and eager to apply my skills in the gaming industry.</br>
       💻 Currently, studying C++ and UE5 is my primary activity during my all time.
    </em>
