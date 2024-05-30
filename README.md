@@ -4,8 +4,8 @@
    👋 Welcome to my GitHub!</br>
    <em>
       ✨ My name is Galina ✨</br>
-      🕹 As a recent graduate with a strong interest in game development, I am eager to apply my skills in the gaming industry.</br>
-      💻 Currently, studying C++ and UE4 is my primary activity during my all time.
+      🕹 I am interested in game development and eager to apply my skills in the gaming industry.</br>
+      💻 Currently, studying C++ and UE5 is my primary activity during my all time.
    </em>
 </p></br>
       
